@@ -1,5 +1,7 @@
 gh-search
 
+Deployed on netlify: https://compassionate-stallman-9886d8.netlify.com
+
 Сценарий работы с приложением:
 
 1. Пользователь открывает приложение (URL: /)
